@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "EmbarkEdge",
+    "slug": "embarkedge-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "plugins": [
+      "expo-asset"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
